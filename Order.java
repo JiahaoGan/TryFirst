@@ -7,3 +7,4 @@ public class Order {
 		this.price = price;
 	}
 }
+//试试可不可以
